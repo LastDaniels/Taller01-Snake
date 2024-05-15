@@ -4,6 +4,7 @@ import java.awt.Dimension;
 
 /** Provides a fixed size for various games. */
 public enum Constants {
+	/
 	;
 	// Safe Singleton pattern, prevent instantiation.
 	/** An immutable Dimension object of constant size. */
